@@ -1,0 +1,32 @@
+body {
+    margin-left: 20px;
+    background-color: #548687 !important;
+}
+
+
+#chat {
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+    
+}
+#msg {
+    background-color: dodgerblue;
+    color: white;
+    padding:5px 15px;
+    border-radius: 16px;
+}
+
+
+    .centered-div {
+        width: 30%; /* or any specific width */
+        margin: 0 auto; /* centers horizontally */
+    }
+
+    .outerdiv{
+        height: 300px;
+        width: 300px;
+    }
+
+
